@@ -1,21 +1,14 @@
 # Pull Request — EcoCiente
 
+<!-- ECOCIENTE_PR_BOT_START -->
+
 ## 1. Resumo da alteração
 
-Descreva de forma clara e objetiva o que foi feito nesta Pull Request.
-
-Exemplo:
-
-* Criação da tela de login
-* Ajuste no fluxo de cadastro
-* Configuração inicial do Docker
-* Correção de erro na API de usuários
+A descrição será gerada automaticamente.
 
 ---
 
 ## 2. Tipo de alteração
-
-Marque a opção que melhor representa esta Pull Request:
 
 * [ ] Nova funcionalidade
 * [ ] Correção de bug
@@ -31,8 +24,6 @@ Marque a opção que melhor representa esta Pull Request:
 
 ## 3. Área afetada
 
-Marque as áreas impactadas pela alteração:
-
 * [ ] Mobile
 * [ ] Frontend Web
 * [ ] Backend / API
@@ -46,44 +37,21 @@ Marque as áreas impactadas pela alteração:
 
 ## 4. O que foi feito?
 
-Liste as principais alterações realizadas:
-
-*
-*
-*
+A descrição será gerada automaticamente.
 
 ---
 
 ## 5. Como testar?
 
-Descreva o passo a passo para testar esta alteração.
-
-Exemplo:
-
-1. Acessar a tela de login.
-2. Informar e-mail e senha válidos.
-3. Clicar em “Entrar”.
-4. Verificar se o usuário é redirecionado para a Home correta.
-
-Passos para teste:
-
-1.
-2.
-3.
+Os passos de teste serão sugeridos automaticamente.
 
 ---
 
 ## 6. Impacto da alteração
 
-Explique se essa Pull Request causa algum impacto importante no projeto.
+O impacto será analisado automaticamente.
 
-* Impacta alguma funcionalidade existente?
-* Altera algum fluxo do usuário?
-* Altera banco de dados?
-* Exige alguma configuração nova?
-* Exige atualização no README?
-
-Resposta:
+<!-- ECOCIENTE_PR_BOT_END -->
 
 ---
 
@@ -118,5 +86,3 @@ Quem revisar esta Pull Request deve verificar:
 ## 9. Informações adicionais
 
 Adicione qualquer outra informação importante para o time.
-
----
