@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/assets/Card README - Organização EcoCiente (GitHub).png" alt="Logo EcoCiente" width="140" />
+<img src="/assets/Card README - Organização EcoCiente (GitHub).png" alt="EcoCiente Card" width="560" />
 
 # EcoCiente — Instituto J&F
 
