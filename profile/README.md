@@ -13,7 +13,7 @@ Card README - Organização EcoCiente (GitHub).png
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EcoCiente-Instituto-J-F/.github/main/assetsCard README - Organização EcoCiente (GitHub).png" alt="EcoCiente README CARD" width="100%">
+  <img src="https://raw.githubusercontent.com/EcoCiente-Instituto-J-F/.github/main/assets/Card README - Organização EcoCiente (GitHub).png" alt="EcoCiente README CARD" width="100%">
 </p>
 <h1 align="center">ECOCIENTE</h1>
 <p align="center"><strong>Conectamos pessoas, condomínios e cooperativas para transformar a relação com os resíduos.</strong></p>
