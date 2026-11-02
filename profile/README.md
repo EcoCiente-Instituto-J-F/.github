@@ -4,7 +4,7 @@
   Banner futuro: assets/readme/banner/press-start-eko.gif
   Todas as imagens opcionais ainda nao criadas ficam comentadas para nao exibir icones quebrados.
 -->
-
+Card README - Organização EcoCiente (GitHub).png
 <!-- BANNER PRESS START: depois de enviar o arquivo para .github/assets/readme/banner/press-start-eko.gif,
      descomente o bloco seguinte e retire o titulo textual abaixo, se a imagem ja contiver o titulo.
 <p align="center">
@@ -12,7 +12,10 @@
 </p>
 -->
 
-<h1 align="center">🌱 ECOCIENTE</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EcoCiente-Instituto-J-F/.github/main/assetsCard README - Organização EcoCiente (GitHub).png" alt="EcoCiente README CARD" width="100%">
+</p>
+<h1 align="center">ECOCIENTE</h1>
 <p align="center"><strong>Conectamos pessoas, condomínios e cooperativas para transformar a relação com os resíduos.</strong></p>
 <p align="center"><a href="#a-missao"><kbd>▶ PRESS START</kbd></a> &nbsp; <code>EDUCAÇÃO • TECNOLOGIA • IMPACTO</code></p>
 
