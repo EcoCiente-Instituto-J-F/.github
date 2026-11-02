@@ -614,7 +614,7 @@ O projeto combina **planejamento, interfaces, engenharia, dados, automação e e
 
 - **Gestão do produto:** Heitor Shiniti (Product Owner) e Emanuelly Mendes (Scrum Master).
 - **Mobile:** Julio Menezes, com apoio de Anna Luisa Abreu.
-- **Modelagem e dados:** Heitor Shiniti e Dominic Vitorino, com apoio de Anna Luisa Abreu.
+- **Modelagem e dados:** Heitor Shiniti e Anna Luisa Abreu.
 - **BI:** Anna Luisa Abreu, com apoio de Dominic Vitorino.
 - **IA:** Heitor Shiniti, com apoio de Dominic Vitorino.
 - **Qualidade e UX/UI:** Emanuelly Mendes, com apoio de Anna Luisa Abreu e colaboração da equipe de UX.
